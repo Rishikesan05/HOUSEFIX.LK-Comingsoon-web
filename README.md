@@ -1,6 +1,7 @@
 # HOUSEFIX.LK | Coming Soon Landing Page
 
 [![Live Website](https://img.shields.io/badge/Live%20Website-housefix.lk-00C49F?style=for-the-badge&logo=google-chrome&logoColor=white)](https://housefix.lk)
+[![License: Proprietary](https://img.shields.io/badge/License-Proprietary-red.svg?style=for-the-badge)](LICENSE)
 
 
 This is the official **Coming Soon** landing page for **HOUSEFIX.LK**, a professional construction and smart infrastructure company based in Sri Lanka. The platform serves as a high-end pre-launch portal to build anticipation and capture early interest for premium building and automation services.
